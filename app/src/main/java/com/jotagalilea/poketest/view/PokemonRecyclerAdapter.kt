@@ -14,7 +14,6 @@ import com.jotagalilea.poketest.R
 import com.jotagalilea.poketest.model.Pokemon
 import com.squareup.picasso.Callback
 import com.squareup.picasso.Picasso
-import java.lang.Exception
 
 
 /**

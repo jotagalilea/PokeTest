@@ -13,7 +13,7 @@ import com.jotagalilea.poketest.db.asDomainModelMap
 import com.jotagalilea.poketest.db.getDatabase
 import com.jotagalilea.poketest.model.Pokemon
 import com.jotagalilea.poketest.typesToString
-import kotlinx.coroutines.*
+import kotlinx.coroutines.launch
 import retrofit2.Call
 import retrofit2.Callback
 import retrofit2.Response
